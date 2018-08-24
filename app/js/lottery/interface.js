@@ -21,7 +21,6 @@ class Interface{
                 error:(err)=>{
                     reject.call(err);
                 }
-
             })
         })
     }
